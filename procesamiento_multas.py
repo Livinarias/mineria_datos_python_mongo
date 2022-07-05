@@ -1,4 +1,3 @@
-import pandas
 import consumo_api
 import pandas as pd
 
